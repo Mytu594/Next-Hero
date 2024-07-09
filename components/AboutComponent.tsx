@@ -70,7 +70,7 @@ const AboutComponent = () => {
               alt=""
               width={325}
               height={300}
-              className="hidden md:block md:relative md:bottom-2 md:left-20 md:z-0"
+              className="hidden md:block md:relative md:top-1 md:left-0 md:z-0 sm:left-5"
             />
           </div>
         </div>
